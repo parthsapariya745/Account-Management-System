@@ -32,24 +32,6 @@ This project is created for learning purposes and demonstrates core React concep
 
 ---
 
-## 📁 Project Structure
-
-account-management-system/
-│
-├── src/
-│   ├── components/
-│   │   ├── Login.jsx
-│   │   ├── Register.jsx
-│   │   └── Profile.jsx
-│   │
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-│
-└── package.json
-
----
-
 ## 🧑‍💻 How to Use
 
 1. Open the application.
